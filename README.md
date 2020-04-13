@@ -1,1 +1,1 @@
-# game-java
+# Number Guesser javascript
